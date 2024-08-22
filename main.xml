@@ -2076,7 +2076,7 @@ function ldCss(t, n, e) {
                         <!--[ Standar menu ]-->
                         <li class='br'>
                           <!--[ Change attribute href='#' to add url ]-->
-                          <a class='a' expr:href='data:blog.homepageUrl.canonical path &quot;p/safelink-generator.html&quot;' itemprop='url'>
+                          <a class='a' expr:href='data:blog.homepageUrl.canonical path &quot;p/https://anyanswer247.blogspot.com/2024/08/safelink-generator.html&quot;' itemprop='url'>
                             <!--[ Icon ]-->
                             <b:include name='shield-done-icon'/>
                           
